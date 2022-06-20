@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "684618129867",
+    "project_id": "reumunch",
+    "storage_bucket": "reumunch.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684618129867:android:408a97c6c80344f17cd64e",
+        "android_client_info": {
+          "package_name": "com.example.reumunch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "684618129867-se8tlekgfoepgj84eualieofbkack1mc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAnNPQMOsj7qxZl35SHsnk5peRMdPmJ9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "684618129867-se8tlekgfoepgj84eualieofbkack1mc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "684618129867-i48s459l099pabnseltnnr2cdmn8tf1d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.reumunch"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
